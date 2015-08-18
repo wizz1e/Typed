@@ -568,11 +568,13 @@ article {
 }
 
 .post-title a {
+    display: none;
     color: #333333;
     border-bottom: none;
 }
 
 .post-title a:hover {
+    display: none;
     color: #333333;
     border-bottom: none;
 }
