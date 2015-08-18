@@ -532,22 +532,26 @@ article {
 }
 
 .post-meta {
+    display: none;
     color: #999999;
     font-size: 12px;
     margin-bottom: 24px;
 }
 
 .post-meta a {
+    display: none;
     color: #999999;
     border-bottom: none;
 }
 
 .post-meta a:hover,
 .post-meta a:focus {
+    display: none;
     color: #999999;
 }
 
 .post-title {
+    display: none;
     margin-bottom: 6px;
 }
 
